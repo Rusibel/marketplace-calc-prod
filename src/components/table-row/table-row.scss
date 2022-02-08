@@ -1,0 +1,11 @@
+.table__row {
+    &__green {
+        background-color: rgba(183, 225, 205, 0.226);
+    }
+    &__red {
+        background-color: rgba(234, 68, 53, 0.219);
+    }
+    &__yellow {
+        background-color: rgba(255, 242, 204, 0.274);
+    }
+}

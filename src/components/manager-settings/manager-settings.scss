@@ -1,0 +1,15 @@
+.manager__settings {
+    margin-top: 0;
+ 
+    & table {
+        text-align: center;
+        &:nth-of-type(1){
+            margin-bottom: 0;
+            & td {
+                &:nth-of-type(1){
+                    text-align: left;
+                }         
+            }
+        }
+    }
+}
